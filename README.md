@@ -1,9 +1,7 @@
-Bom dia,
-Basta clonar o repositorio e abrir no seu navegaador a index e os passos vao seguir por lá.
-Obrigado.
 
 
-Tutorial para rodar o teste CRUD em Laravel
+
+<h1>Tutorial para rodar o teste CRUD em Laravel</h1>
 
 1) Clonar esse repositorio:<br>
    git clone https://github.com/gilperon/crud-laravel.git

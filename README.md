@@ -8,18 +8,21 @@
    
 2) Vá para a pasta do diretorio<br>
    cd crud-laravel
+   
+3) Instale as dependencidas com o composer <br>
+   composer install
 
-3) Copie o arquivo .env.example para .env ou simplesmente renomeie ele<br>
+4) Copie o arquivo .env.example para .env ou simplesmente renomeie ele<br>
    Se estiver no linux digite isso no terminal: cp .env.example .env <br>
    Se estiver no windows digite isso no terminal: copy .env.example .env
 
-4) Crie uma chave para a aplicação
+5) Crie uma chave para a aplicação
    php artisan key:generate
 
-5) Crie as tabelas do banco
+6) Crie as tabelas do banco
    php artisan migrate
 
-6) Rode o servidor
+7) Rode o servidor
    php artisan serve
 
 

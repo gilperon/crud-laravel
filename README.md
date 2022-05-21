@@ -3,6 +3,27 @@ Basta clonar o repositorio e abrir no seu navegaador a index e os passos vao seg
 Obrigado.
 
 
+Tutorial para rodar o teste CRUD em Laravel
+
+1) Clonar esse repositorio:<br>
+   git clone https://github.com/gilperon/crud-laravel.git
+   
+2) Vá para a pasta do diretorio
+   cd crud-laravel
+
+3) Copie o arquivo .env.example para .env ou simplesmente renomeie ele<br>
+   Se estiver no linux digite isso no terminal: cp .env.example .env <br>
+   Se estiver no windows digite isso no terminal: copy .env.example .env
+
+4) Crie uma chave para a aplicação
+   php artisan key:generate
+
+5) Crie as tabelas do banco
+   php artisan migrate
+
+6) Rode o servidor
+   php artisan serve
+
 
 
 

@@ -6,7 +6,7 @@
 1) Clonar esse repositorio:<br>
    git clone https://github.com/gilperon/crud-laravel.git
    
-2) Vá para a pasta do diretorio
+2) Vá para a pasta do diretorio<br>
    cd crud-laravel
 
 3) Copie o arquivo .env.example para .env ou simplesmente renomeie ele<br>

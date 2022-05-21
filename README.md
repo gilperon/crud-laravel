@@ -16,13 +16,13 @@
    Se estiver no linux digite isso no terminal: cp .env.example .env <br>
    Se estiver no windows digite isso no terminal: copy .env.example .env
 
-5) Crie uma chave para a aplicação
+5) Crie uma chave para a aplicação<br>
    php artisan key:generate
 
-6) Crie as tabelas do banco
+6) Crie as tabelas do banco<br>
    php artisan migrate
 
-7) Rode o servidor
+7) Rode o servidor<br>
    php artisan serve
 
 

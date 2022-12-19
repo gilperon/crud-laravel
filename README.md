@@ -29,6 +29,7 @@
    localhost/crud-laravel/public/
 
 Voce deve ver uma index com os links para os endpoints igual a essa: https://i.imgur.com/K6QweUm.png
+
 Agora, é só seguir os links e ver as funcionalidades.
 
 ;)

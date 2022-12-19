@@ -28,8 +28,7 @@
 8) Acesse em seu navegador seu diretorio localhost para ter acesso a Criar, Listar, Deletar e Buscar clientes
    localhost/crud-laravel/public/
 
-Voce deve ver uma index com os links para os endpoints igual a essa: 
-<img src='https://i.imgur.com/6VwIR8t.jpg'>
+Voce deve ver uma index com os links para os endpoints igual a essa: https://i.imgur.com/K6QweUm.png
 Agora, é só seguir os links e ver as funcionalidades.
 
 ;)
